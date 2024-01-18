@@ -1,0 +1,60 @@
+{
+    "employees" : [
+        {
+            "id": 1,
+            "firstName": "Sushil",
+            "lastName": "Sharma",
+            "email": "sks266@gmail.com",
+            "salary": 12000,
+            "date": "20-4-2023"
+          },
+          {
+            "id": 2,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com",
+            "salary": 15000,
+            "date": "21-4-2023"
+          },
+          {
+            "id": 3,
+            "firstName": "Alice",
+            "lastName": "Smith",
+            "email": "alice.smith@example.com",
+            "salary": 18000,
+            "date": "22-4-2023"
+          },
+          {
+            "id": 4,
+            "firstName": "Bob",
+            "lastName": "Johnson",
+            "email": "bob.johnson@example.com",
+            "salary": 16000,
+            "date": "23-4-2023"
+          },
+          {
+            "id": 5,
+            "firstName": "Emily",
+            "lastName": "Williams",
+            "email": "emily.williams@example.com",
+            "salary": 20000,
+            "date": "24-4-2023"
+          },
+          {
+            "id": 6,
+            "firstName": "David",
+            "lastName": "Brown",
+            "email": "david.brown@example.com",
+            "salary": 22000,
+            "date": "25-4-2023"
+          },
+          {
+            "id": 7,
+            "firstName": "Sophia",
+            "lastName": "Miller",
+            "email": "sophia.miller@example.com",
+            "salary": 13000,
+            "date": "26-4-2023"
+          }
+    ]
+}
