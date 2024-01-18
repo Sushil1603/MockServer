@@ -1,15 +1,16 @@
 {
-  "name": "mock-server-app",
+  "name": "mockserver",
   "version": "1.0.0",
-  "description": "mock server app",
-  "main": "server.js",// since i want server.js to be entry point. I need to update the same here( if you have used index.js. then update your filename here )
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js" // npm start command
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
   },
   "keywords": [],
-  "author": "abdul",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^1.0.0-alpha.21"
   }
 }
